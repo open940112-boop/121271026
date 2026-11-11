@@ -1,122 +1,213 @@
-YªçŠx³¬uç%j·Â+ar‰ì¶ë•ë_¢ºÞjË"‚v›•ëÚ®&›•ëÊŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠ‹Â‹Êˆ]Y[ËÛÜšÛ]šœÈ
-‹Â‹ÊŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠ‹Â‹Êˆ\Èš[H\È\ÙŽˆ
-‹Â‹ÊˆÓÑÕS‘ÒS‘H
-‹Â‹ÊˆÎ‹ËÙÛÙÝ[™Ú[™K›Ü™È
-‹Â‹ÊŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠ‹Â‹ÊˆÛÜ\šYÚ
-ÊHŒM\™\Ù[ÛÙÝ[™Ú[™HÛÛšX]ÜœÈ
-ÙYHUUÔ”Ë›Y
-Kˆ
-‹Â‹ÊˆÛÜ\šYÚ
-ÊHŒËLŒMX[ˆ[šY]ÚÞK\šY[X[ž\‹ˆ
-‹Â‹Êˆ
-‹Â‹Êˆ\›Z\ÜÚ[Ûˆ\È\™XžHÜ˜[Yœ™YHÙˆÚ\™ÙKÈ[žH\œÛÛˆØZ[š[™È
-‹Â‹ÊˆHÛÜHÙˆ\ÈÛÙØ\™H[™\ÜÛØÚX]YØÝ[Y[][Ûˆš[\È
-H
-‹Â‹Êˆ”ÛÙØ\™HŠKÈX[[ˆHÛÙØ\™HÚ]Ý]™\ÝšXÝ[Û‹[˜ÛY[™È
-‹Â‹ÊˆÚ]Ý][Z]][ÛˆHšYÚÈÈ\ÙKÛÜK[ÙYžKY\™ÙKX›\Ú
-‹Â‹Êˆ\ÝšX]KÝX›XÙ[œÙK[™ÛÜˆÙ[ÛÜY\ÈÙˆHÛÙØ\™K[™È
-‹Â‹Êˆ\›Z]\œÛÛœÈÈÚÛHHÛÙØ\™H\È\›š\ÚYÈÈÛËÝXš™XÝÈ
-‹Â‹ÊˆH›ÛÝÚ[™ÈÛÛ™][ÛœÎˆ
-‹Â‹Êˆ
-‹Â‹ÊˆHX›Ý™HÛÜ\šYÚ›ÝXÙH[™\È\›Z\ÜÚ[Ûˆ›ÝXÙHÚ[™H
-‹Â‹Êˆ[˜ÛYY[ˆ[ÛÜY\ÈÜˆÝXœÝ[X[Ü[ÛœÈÙˆHÛÙØ\™Kˆ
-‹Â‹Êˆ
-‹Â‹ÊˆHÓÑ•ÐT‘HTÈ“Õ’QQTÈTÈ‹ÒUÕUÐT”S•HÑˆS–HÒS‘
-‹Â‹ÊˆV‘TÔÈÔˆSTQQSÓQS‘È•U“ÕSRUQÈHÐT”S•QTÈÑˆ
-‹Â‹ÊˆQTÒS•P’SUK’U‘TÔÈ“ÔˆHT•PÕSTˆT”ÔÑHS‘“Ó’S‘”’S‘ÑSQS•ˆ
-‹Â‹ÊˆSˆ“ÈU‘S•ÒSHUUÔ”ÈÔˆÓÔT’QÒÓT”È‘HPP“H“ÔˆS–H
-‹Â‹ÊˆÓRSKSPQÑTÈÔˆÕTˆPP’SUKÒUTˆSˆSˆPÕSÓˆÑˆÓÓ•PÕ
-‹Â‹ÊˆÔ•ÔˆÕT•ÒTÑKT’TÒS‘È”“ÓKÕUÑˆÔˆSˆÓÓ“‘PÕSÓˆÒUH
-‹Â‹ÊˆÓÑ•ÐT‘HÔˆHTÑHÔˆÕTˆPSS‘ÔÈSˆHÓÑ•ÐT‘Kˆ
-‹Â‹ÊŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠŠ‹Â‚˜Û\ÜÈš[™ÐY™™\ˆÂ‚XÛÛœÝXÝÜŠØY™™\‹ÜÝ]KÝ™XYÊHÂ‚B]\Ë˜Y™™\ˆHØY™™\ŽÂ‚B]\Ë˜]˜Z[HÜÝ]NÂ‚B]\Ë™XYÈHÝ™XYÎÂ‚B]\ËœœÜÈHÂ‚B]\ËÜÜÈHÂ‚_B‚‚Y]WÛY
+/**************************************************************************/
+/*  audio.worklet.js                                                      */
+/**************************************************************************/
+/*                         This file is part of:                          */
+/*                             GODOT ENGINE                               */
+/*                        https://godotengine.org                         */
+/**************************************************************************/
+/* Copyright (c) 2014-present Godot Engine contributors (see AUTHORS.md). */
+/* Copyright (c) 2007-2014 Juan Linietsky, Ariel Manzur.                  */
+/*                                                                        */
+/* Permission is hereby granted, free of charge, to any person obtaining  */
+/* a copy of this software and associated documentation files (the        */
+/* "Software"), to deal in the Software without restriction, including    */
+/* without limitation the rights to use, copy, modify, merge, publish,    */
+/* distribute, sublicense, and/or sell copies of the Software, and to     */
+/* permit persons to whom the Software is furnished to do so, subject to  */
+/* the following conditions:                                              */
+/*                                                                        */
+/* The above copyright notice and this permission notice shall be         */
+/* included in all copies or substantial portions of the Software.        */
+/*                                                                        */
+/* THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,        */
+/* EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF     */
+/* MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. */
+/* IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY   */
+/* CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,   */
+/* TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE      */
+/* SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.                 */
+/**************************************************************************/
 
-HÂ‚B\™]\›ˆ\Ë™XYÈÈ]ÛZXÜË›ØY
-\Ë˜]˜Z[
-Hˆ\Ë˜]˜Z[Â‚_B‚‚\ÜXÙWÛY
+class RingBuffer {
+	constructor(p_buffer, p_state, p_threads) {
+		this.buffer = p_buffer;
+		this.avail = p_state;
+		this.threads = p_threads;
+		this.rpos = 0;
+		this.wpos = 0;
+	}
 
-HÂ‚B\™]\›ˆ\Ë˜Y™™\‹›[™ÝH\Ë™]WÛY
+	data_left() {
+		return this.threads ? Atomics.load(this.avail, 0) : this.avail;
+	}
 
-NÂ‚_B‚‚\™XY
-Ý]]
-HÂ‚BXÛÛœÝÚ^™HH\Ë˜Y™™\‹›[™ÝÂ‚B[]œ›ÛHHÂ‚B[]×ÝÜš]HHÝ]]›[™ÝÂ‚BZYˆ
-\ËœœÜÈ
-È×ÝÜš]HˆÚ^™JHÂ‚BBXÛÛœÝYÚHÚ^™HH\ËœœÜÎÂ‚BB[Ý]]œÙ]
-\Ë˜Y™™\‹œÝX˜\œ˜^J\ËœœÜËÚ^™JJNÂ‚BBYœ›ÛHHYÚÂ‚BB]×ÝÜš]HOHYÚÂ‚BB]\ËœœÜÈHÂ‚B_B‚BZYˆ
-×ÝÜš]JHÂ‚BB[Ý]]œÙ]
-\Ë˜Y™™\‹œÝX˜\œ˜^J\ËœœÜË\ËœœÜÈ
-È×ÝÜš]JKœ›ÛJNÂ‚B_B‚B]\ËœœÜÈ
-ÏH×ÝÜš]NÂ‚BZYˆ
-\Ë™XYÊHÂ‚BBP]ÛZXÜË˜Y
-\Ë˜]˜Z[[Ý]]›[™Ý
-NÂ‚BBP]ÛZXÜË››ÝYžJ\Ë˜]˜Z[
-NÂ‚B_H[ÙHÂ‚BB]\Ë˜]˜Z[OHÝ]]›[™ÝÂ‚B_B‚_B‚‚]Üš]JØY™™\ŠHÂ‚BXÛÛœÝ×ÝÜš]HHØY™™\‹›[™ÝÂ‚BXÛÛœÝ]ÈH\Ë˜Y™™\‹›[™ÝH\ËÜÜÎÂ‚BZYˆ
-]ÈH×ÝÜš]JHÂ‚BB]\Ë˜Y™™\‹œÙ]
-ØY™™\‹\ËÜÜÊNÂ‚BB]\ËÜÜÈ
-ÏH×ÝÜš]NÂ‚BBZYˆ
-]ÈOOH×ÝÜš]JHÂ‚BBB]\ËÜÜÈHÂ‚BB_B‚B_H[ÙHÂ‚BBXÛÛœÝYÚHØY™™\‹œÝX˜\œ˜^J]ÊNÂ‚BBXÛÛœÝÝÈHØY™™\‹œÝX˜\œ˜^J]ÊNÂ‚BB]\Ë˜Y™™\‹œÙ]
-YÚ\ËÜÜÊNÂ‚BB]\Ë˜Y™™\‹œÙ]
-ÝÊNÂ‚BB]\ËÜÜÈHÝË›[™ÝÂ‚B_B‚BZYˆ
-\Ë™XYÊHÂ‚BBP]ÛZXÜË˜Y
-\Ë˜]˜Z[×ÝÜš]JNÂ‚BBP]ÛZXÜË››ÝYžJ\Ë˜]˜Z[
-NÂ‚B_H[ÙHÂ‚BB]\Ë˜]˜Z[
-ÏH×ÝÜš]NÂ‚B_B‚_BŸB‚˜Û\ÜÈÛÙÝ›ØÙ\ÜÛÜˆ^[™È]Y[ÕÛÜšÛ]›ØÙ\ÜÛÜˆÂ‚XÛÛœÝXÝÜŠ
-HÂ‚B\Ý\\Š
-NÂ‚B]\Ë™XYÈH˜[ÙNÂ‚B]\Ëœ[›š[™ÈHYNÂ‚B]\Ë›ØÚÈH[Â‚B]\Ë››ÝYšY\ˆH[Â‚B]\Ë›Ý]]H[Â‚B]\Ë›Ý]]ØY™™\ˆH™]È›Ø]Ì\œ˜^J
-NÂ‚B]\Ëš[œ]H[Â‚B]\Ëš[œ]ØY™™\ˆH™]È›Ø]Ì\œ˜^J
-NÂ‚B]\ËœÜ›Û›Y\ÜØYÙHH
-]™[
-HOˆÂ‚BBXÛÛœÝÛYH]™[™]VÉØÛY	×NÂ‚BBXÛÛœÝ]HH]™[™]VÉÙ]I×NÂ‚BB]\Ëœ\œÙWÛY\ÜØYÙJÛY]JNÂ‚B_NÂ‚_B‚‚\›ØÙ\Ü×Û›ÝYžJ
-HÂ‚BZYˆ
-\Ë››ÝYšY\ŠHÂ‚BBP]ÛZXÜË˜Y
-\Ë››ÝYšY\‹JNÂ‚BBP]ÛZXÜË››ÝYžJ\Ë››ÝYšY\‹
-NÂ‚B_B‚_B‚‚\\œÙWÛY\ÜØYÙJØÛYÙ]JHÂ‚BZYˆ
-ØÛYOOH	ÜÝ\	È	‰ˆÙ]JHÂ‚BBXÛÛœÝÝ]HHÙ]VÌNÂ‚BB[]YHÂ‚BB]\Ë™XYÈHYNÂ‚BB]\Ë›ØÚÈHÝ]KœÝX˜\œ˜^JY
-ÊÚY
-NÂ‚BB]\Ë››ÝYšY\ˆHÝ]KœÝX˜\œ˜^JY
-ÊÚY
-NÂ‚BBXÛÛœÝ]˜Z[Ú[ˆHÝ]KœÝX˜\œ˜^JY
-ÊÚY
-NÂ‚BBXÛÛœÝ]˜Z[ÛÝ]HÝ]KœÝX˜\œ˜^JY
-ÊÚY
-NÂ‚BB]\Ëš[œ]H™]Èš[™ÐY™™\ŠÙ]VÌWK]˜Z[Ú[‹YJNÂ‚BB]\Ë›Ý]]H™]Èš[™ÐY™™\ŠÙ]VÌ—K]˜Z[ÛÝ]YJNÂ‚B_H[ÙHYˆ
-ØÛYOOH	ÜÝÜ	ÊHÂ‚BB]\Ëœ[›š[™ÈH˜[ÙNÂ‚BB]\Ë›Ý]]H[Â‚BB]\Ëš[œ]H[Â‚BB]\Ë›ØÚÈH[Â‚BB]\Ë››ÝYšY\ˆH[Â‚B_H[ÙHYˆ
-ØÛYOOH	ÜÝ\Û›Ý™XYÉÊHÂ‚BB]\Ë›Ý]]H™]Èš[™ÐY™™\ŠÙ]VÌKÙ]VÌK›[™Ý˜[ÙJNÂ‚B_H[ÙHYˆ
-ØÛYOOH	ØÚ[šÉÊHÂ‚BB]\Ë›Ý]]Üš]JÙ]JNÂ‚B_B‚_B‚‚\Ý]XÈ\œ˜^WÚ\×Ù]J\œŠHÂ‚B\™]\›ˆ\œ‹›[™Ý	‰ˆ\œ–ÌK›[™Ý	‰ˆ\œ–ÌVÌK›[™ÝÂ‚_B‚‚\›ØÙ\ÜÊ[œ]ËÝ]]Ë\˜[Y]\œÊHÂ‚BZYˆ
-]\Ëœ[›š[™ÊHÂ‚BB\™]\›ˆ˜[ÙNÈËÈÝÜ›ØÙ\ÜÚ[™Ë‚‚B_B‚BZYˆ
-\Ë›Ý]]OOH[
-HÂ‚BB\™]\›ˆYNÈËÈ›Ý™XYHY]ÙY\›ØÙ\ÜÚ[™Ë‚‚B_B‚BXÛÛœÝ›ØÙ\Ü×Ú[œ]HÛÙÝ›ØÙ\ÜÛÜ‹˜\œ˜^WÚ\×Ù]J[œ]ÊNÂ‚BZYˆ
-›ØÙ\Ü×Ú[œ]
-HÂ‚BBXÛÛœÝ[œ]H[œ]ÖÌNÂ‚BBXÛÛœÝÚ[šÈH[œ]ÌK›[™Ý
-ˆ[œ]›[™ÝÂ‚BBZYˆ
-\Ëš[œ]ØY™™\‹›[™ÝOOHÚ[šÊHÂ‚BBB]\Ëš[œ]ØY™™\ˆH™]È›Ø]Ì\œ˜^JÚ[šÊNÂ‚BB_B‚BBZYˆ
-]\Ë™XYÊHÂ‚BBBQÛÙÝ›ØÙ\ÜÛÜ‹Üš]WÚ[œ]
-\Ëš[œ]ØY™™\‹[œ]
-NÂ‚BBB]\ËœÜœÜÝY\ÜØYÙJÈ	ØÛY	Îˆ	Ú[œ]	Ë	Ù]IÎˆ\Ëš[œ]ØY™™\ˆJNÂ‚BB_H[ÙHYˆ
-\Ëš[œ]œÜXÙWÛY
+	space_left() {
+		return this.buffer.length - this.data_left();
+	}
 
-HHÚ[šÊHÂ‚BBBQÛÙÝ›ØÙ\ÜÛÜ‹Üš]WÚ[œ]
-\Ëš[œ]ØY™™\‹[œ]
-NÂ‚BBB]\Ëš[œ]Üš]J\Ëš[œ]ØY™™\ŠNÂ‚BB_H[ÙHÂ‚BBBKËÈ\ËœÜœÜÝY\ÜØYÙJ	Ò[œ]Y™™\ˆ\È[HÚÚ\[™È[œ]œ˜[YK‰ÊNÈËÈ[˜ÛÛ[Y[\È[™HÈXYÈ[œ]Y™™\‹‚‚BB_B‚B_B‚BXÛÛœÝ›ØÙ\Ü×ÛÝ]]HÛÙÝ›ØÙ\ÜÛÜ‹˜\œ˜^WÚ\×Ù]JÝ]]ÊNÂ‚BZYˆ
-›ØÙ\Ü×ÛÝ]]
-HÂ‚BBXÛÛœÝÝ]]HÝ]]ÖÌNÂ‚BBXÛÛœÝÚ[šÈHÝ]]ÌK›[™Ý
-ˆÝ]]›[™ÝÂ‚BBZYˆ
-\Ë›Ý]]ØY™™\‹›[™ÝOOHÚ[šÊHÂ‚BBB]\Ë›Ý]]ØY™™\ˆH™]È›Ø]Ì\œ˜^JÚ[šÊNÂ‚BB_B‚BBZYˆ
-\Ë›Ý]]™]WÛY
+	read(output) {
+		const size = this.buffer.length;
+		let from = 0;
+		let to_write = output.length;
+		if (this.rpos + to_write > size) {
+			const high = size - this.rpos;
+			output.set(this.buffer.subarray(this.rpos, size));
+			from = high;
+			to_write -= high;
+			this.rpos = 0;
+		}
+		if (to_write) {
+			output.set(this.buffer.subarray(this.rpos, this.rpos + to_write), from);
+		}
+		this.rpos += to_write;
+		if (this.threads) {
+			Atomics.add(this.avail, 0, -output.length);
+			Atomics.notify(this.avail, 0);
+		} else {
+			this.avail -= output.length;
+		}
+	}
 
-HHÚ[šÊHÂ‚BBB]\Ë›Ý]]œ™XY
-\Ë›Ý]]ØY™™\ŠNÂ‚BBBQÛÙÝ›ØÙ\ÜÛÜ‹Üš]WÛÝ]]
-Ý]]\Ë›Ý]]ØY™™\ŠNÂ‚BBBZYˆ
-]\Ë™XYÊHÂ‚BBBB]\ËœÜœÜÝY\ÜØYÙJÈ	ØÛY	Îˆ	Ü™XY	Ë	Ù]IÎˆÚ[šÈJNÂ‚BBB_B‚BB_H[ÙHÂ‚BBBKËÈ\ËœÜœÜÝY\ÜØYÙJ	ÓÝ]]Y™™\ˆ\È›Ý[›ÝYÚœ˜[Y\ÈHÚÚ\[™ÈÝ]]œ˜[YK‰ÊNÈËÈ[˜ÛÛ[Y[\È[™HÈXYÈÝ]]Y™™\‹‚‚BB_B‚B_B‚B]\Ëœ›ØÙ\Ü×Û›ÝYžJ
-NÂ‚B\™]\›ˆYNÂ‚_B‚‚\Ý]XÈÜš]WÛÝ]]
-\ÝÛÝ\˜ÙJHÂ‚BXÛÛœÝÚ[›™[ÈH\Ý›[™ÝÂ‚BY›Üˆ
-]ÚHÈÚÚ[›™[ÎÈÚ
-ÊÊHÂ‚BBY›Üˆ
-]Ø[\HHÈØ[\H\ÝØÚK›[™ÝÈØ[\JÊÊHÂ‚BBBY\ÝØÚVÜØ[\WHHÛÝ\˜ÙVÜØ[\H
-ˆÚ[›™[È
-ÈÚNÂ‚BB_B‚B_B‚_B‚‚\Ý]XÈÜš]WÚ[œ]
-\ÝÛÝ\˜ÙJHÂ‚BXÛÛœÝÚ[›™[ÈHÛÝ\˜ÙK›[™ÝÂ‚BY›Üˆ
-]ÚHÈÚÚ[›™[ÎÈÚ
-ÊÊHÂ‚BBY›Üˆ
-]Ø[\HHÈØ[\HÛÝ\˜ÙVØÚK›[™ÝÈØ[\JÊÊHÂ‚BBBY\ÝÜØ[\H
-ˆÚ[›™[È
-ÈÚHHÛÝ\˜ÙVØÚVÜØ[\WNÂ‚BB_B‚B_B‚_BŸB‚œ™YÚ\Ý\”›ØÙ\ÜÛÜŠ	ÙÛÙÝ\›ØÙ\ÜÛÜ‰ËÛÙÝ›ØÙ\ÜÛÜŠNÂ
+	write(p_buffer) {
+		const to_write = p_buffer.length;
+		const mw = this.buffer.length - this.wpos;
+		if (mw >= to_write) {
+			this.buffer.set(p_buffer, this.wpos);
+			this.wpos += to_write;
+			if (mw === to_write) {
+				this.wpos = 0;
+			}
+		} else {
+			const high = p_buffer.subarray(0, mw);
+			const low = p_buffer.subarray(mw);
+			this.buffer.set(high, this.wpos);
+			this.buffer.set(low);
+			this.wpos = low.length;
+		}
+		if (this.threads) {
+			Atomics.add(this.avail, 0, to_write);
+			Atomics.notify(this.avail, 0);
+		} else {
+			this.avail += to_write;
+		}
+	}
+}
+
+class GodotProcessor extends AudioWorkletProcessor {
+	constructor() {
+		super();
+		this.threads = false;
+		this.running = true;
+		this.lock = null;
+		this.notifier = null;
+		this.output = null;
+		this.output_buffer = new Float32Array();
+		this.input = null;
+		this.input_buffer = new Float32Array();
+		this.port.onmessage = (event) => {
+			const cmd = event.data['cmd'];
+			const data = event.data['data'];
+			this.parse_message(cmd, data);
+		};
+	}
+
+	process_notify() {
+		if (this.notifier) {
+			Atomics.add(this.notifier, 0, 1);
+			Atomics.notify(this.notifier, 0);
+		}
+	}
+
+	parse_message(p_cmd, p_data) {
+		if (p_cmd === 'start' && p_data) {
+			const state = p_data[0];
+			let idx = 0;
+			this.threads = true;
+			this.lock = state.subarray(idx, ++idx);
+			this.notifier = state.subarray(idx, ++idx);
+			const avail_in = state.subarray(idx, ++idx);
+			const avail_out = state.subarray(idx, ++idx);
+			this.input = new RingBuffer(p_data[1], avail_in, true);
+			this.output = new RingBuffer(p_data[2], avail_out, true);
+		} else if (p_cmd === 'stop') {
+			this.running = false;
+			this.output = null;
+			this.input = null;
+			this.lock = null;
+			this.notifier = null;
+		} else if (p_cmd === 'start_nothreads') {
+			this.output = new RingBuffer(p_data[0], p_data[0].length, false);
+		} else if (p_cmd === 'chunk') {
+			this.output.write(p_data);
+		}
+	}
+
+	static array_has_data(arr) {
+		return arr.length && arr[0].length && arr[0][0].length;
+	}
+
+	process(inputs, outputs, parameters) {
+		if (!this.running) {
+			return false; // Stop processing.
+		}
+		if (this.output === null) {
+			return true; // Not ready yet, keep processing.
+		}
+		const process_input = GodotProcessor.array_has_data(inputs);
+		if (process_input) {
+			const input = inputs[0];
+			const chunk = input[0].length * input.length;
+			if (this.input_buffer.length !== chunk) {
+				this.input_buffer = new Float32Array(chunk);
+			}
+			if (!this.threads) {
+				GodotProcessor.write_input(this.input_buffer, input);
+				this.port.postMessage({ 'cmd': 'input', 'data': this.input_buffer });
+			} else if (this.input.space_left() >= chunk) {
+				GodotProcessor.write_input(this.input_buffer, input);
+				this.input.write(this.input_buffer);
+			} else {
+				// this.port.postMessage('Input buffer is full! Skipping input frame.'); // Uncomment this line to debug input buffer.
+			}
+		}
+		const process_output = GodotProcessor.array_has_data(outputs);
+		if (process_output) {
+			const output = outputs[0];
+			const chunk = output[0].length * output.length;
+			if (this.output_buffer.length !== chunk) {
+				this.output_buffer = new Float32Array(chunk);
+			}
+			if (this.output.data_left() >= chunk) {
+				this.output.read(this.output_buffer);
+				GodotProcessor.write_output(output, this.output_buffer);
+				if (!this.threads) {
+					this.port.postMessage({ 'cmd': 'read', 'data': chunk });
+				}
+			} else {
+				// this.port.postMessage('Output buffer has not enough frames! Skipping output frame.'); // Uncomment this line to debug output buffer.
+			}
+		}
+		this.process_notify();
+		return true;
+	}
+
+	static write_output(dest, source) {
+		const channels = dest.length;
+		for (let ch = 0; ch < channels; ch++) {
+			for (let sample = 0; sample < dest[ch].length; sample++) {
+				dest[ch][sample] = source[sample * channels + ch];
+			}
+		}
+	}
+
+	static write_input(dest, source) {
+		const channels = source.length;
+		for (let ch = 0; ch < channels; ch++) {
+			for (let sample = 0; sample < source[ch].length; sample++) {
+				dest[sample * channels + ch] = source[ch][sample];
+			}
+		}
+	}
+}
+
+registerProcessor('godot-processor', GodotProcessor);
