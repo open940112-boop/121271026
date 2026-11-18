@@ -1,23 +1,24 @@
-# 內湖科技園區通勤看板
+# 方塊重組｜畢業專題
 
-以純 HTML、CSS、JavaScript 製作的 GitHub Pages 靜態網站，顯示臺北市 YouBike 2.0 即時資料，預設篩選內湖區。
+以純 HTML、CSS、JavaScript 製作的方塊堆疊遊戲，支援桌面鍵盤與手機觸控，並透過 GitHub Pages 發佈。
 
-## 功能
+## 遊戲特色
 
-- 直接向臺北市政府交通局 API 讀取資料，每分鐘更新，也能手動更新。
-- 依行政區、站名或地址篩選；列出各站可借車輛與可還空位。
-- 標示可借車輛低於站點總車位 20% 的站點。
-- 顯示即時摘要與頁面開啟後的車量趨勢。
-- 支援手機版版面。
+- 從首頁開始，完整遊玩、暫停、結算與重新開始流程。
+- 左右移動、旋轉、加速下降與直接落下，搭配下一塊預覽。
+- 消除行數、速度、等級、遊玩時間和分數即時顯示；每五行提升速度，並在瀏覽器記錄最高分。
+- 針對手機調整遊戲版面與觸控按鈕。
 
-## 資料
+## 操作
 
-- API：<https://tcgbusfs.blob.core.windows.net/dotapp/youbike/v2/youbike_immediate.json>
-- 資料集：<https://data.gov.tw/dataset/137993>
+- ← →：移動方塊
+- ↑：旋轉方塊
+- ↓：加速下降
+- Space：直接落下
+- P：暫停或繼續
 
 ## 部署
 
-推送至 `main` 後，GitHub Actions 會部署到 GitHub Pages。預期網址：<https://open940112-boop.github.io/121271026/>。
+推送至 `main` 後，GitHub Actions 會自動部署到 GitHub Pages：<https://open940112-boop.github.io/121271026/>。
 
 署名：資通四勤　121271026　高權伯
-
